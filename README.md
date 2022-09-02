@@ -1,5 +1,8 @@
-<a href="https://github.com/dougmasten">
-  <img src="https://github-readme-stats.vercel.app/api?username=dougmasten&show_icons=true&theme=github_dark" />
-</a>
+### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=dougmasten&color=blue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dougmasten&theme=gruvbox)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dougmasten&theme=gruvbox)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dougmasten&theme=gruvbox)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dougmasten&theme=gruvbox)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dougmasten&theme=gruvbox)
+
